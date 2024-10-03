@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.projects{
+	text-align:center;
+	border-spacing:10px;
+	padding:6px;
+	font-size:10px;
+	text-color:red;
+}
+.skills{
+	text-align:center;
+	border-spacing:10px;
+	padding:6px;
+	font-size:10px;
+	text-color:pink;
+	
+}
